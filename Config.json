@@ -4,5 +4,5 @@
   "YOUTUBE_API_KEY": "AIzaSyBQoFoHSThiADXuKtnSpKNRnxIboQI54UM",
   "QUEUE_LIMIT": 0,
   "COLOR": "BLUE",
-  "inviteURL": "BOT INVITE URL" 
+  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=817435373977337856&permissions=0&scope=bot" 
 }
