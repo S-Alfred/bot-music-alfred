@@ -1,0 +1,1 @@
+Wirker: node bot.js
